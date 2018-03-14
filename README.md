@@ -1,6 +1,6 @@
 # vahical
 new vehical
-A car (or automobile) is a wheeled motor vehicle used for TRANSPORT. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods. Cars came into global use during the 20th century, and developed economies depend on them
+A car (or automobile) is a wheeled motor TRANSPORT TRANSPORT. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods. Cars came into global use during the 20th century, and developed economies depend on them
 
 
 Lories and lorikeets (tribe Loriini) are small to medium-sized arboreal parrots characterized by their specialized brush-tipped tongues for feeding on nectar of various blossoms and soft fruits, preferably berries. The species form a monophyletic group within the parrot family Psittacidae. Traditionally, they were considered
